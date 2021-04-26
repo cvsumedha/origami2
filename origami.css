@@ -1,0 +1,37 @@
+h1{
+    color:rgb(240, 236, 13);
+    justify-content: center
+   
+}
+
+.header{
+background-color:rgb(195, 21, 218);
+display:flex;
+justify-content: center ;
+}
+
+.grid{
+background-color: rgb(22, 201, 201);
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+
+
+.body{
+background-color:rgb(115, 209, 238);
+}
+p{
+color:rgb(38, 2, 43);
+font-family: cursive;
+text-align: center;
+}
+.item{
+position:relative;
+}
+.ss{
+    position:relative;
+    }
+    
